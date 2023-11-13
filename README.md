@@ -23,7 +23,7 @@
 - Experienced in migration of microservices web applications from dedicated data centers to a public cloud environment.
 - Implementation of DevOps practices and tools to automate the software delivery process.
 - Focused on Amazon Web Services Platform Solutions: AWS ECS, AWS EKS, AWS OpenSearch, AWS RDS.
-- Coding/Scripting: read and write in Python and Bash.
+- Coding/Scripting: read and write in GO and Bash.
 - Operation experience Solaris / Linux.
 - Knowledge and experience in Data Loss Prevention (DLP) Systems.
 - Microservices Architecture / Development.
