@@ -1,6 +1,7 @@
 # Hi, I'm Bogdan
 
 **Private AI & GPU Infrastructure Engineer** · Belgium
+
 I help companies run **their own AI on their own hardware or private cloud**, so sensitive data never leaves their control.
 
 ## Private AI for your business
@@ -24,6 +25,7 @@ Senior HPC engineer running a university research platform: Slurm, OpenNebula, N
 
 ## Let's talk
 Free 30-minute intro call to see if private AI fits your business.
+
 Email: Bogdan.Slobodeniuk@gmail.com · [LinkedIn](https://www.linkedin.com/in/bslobodeniuk) · [X @_slobodeniuk](https://x.com/_slobodeniuk)
 
 ## Tech stack
