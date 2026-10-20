@@ -1,13 +1,13 @@
 # Hi, I'm Bogdan 👋
 
 **Private AI & GPU Infrastructure Engineer** · Belgium 🇧🇪
-I help companies run **their own AI — on their own hardware or private cloud** — so sensitive data never leaves their control.
+I help companies run **their own AI on their own hardware or private cloud**, so sensitive data never leaves their control.
 
 ## 🔒 Private AI for your business
 Your own ChatGPT-like assistant, running on your servers or your Azure tenant:
 - **Self-hosted LLMs** (Llama, Mistral, Qwen) served with **vLLM** behind an OpenAI-compatible API
-- **Chat with your documents** — secure RAG over internal files, wikis and email
-- **GDPR & EU AI Act friendly** — no data sent to third-party AI providers
+- **Chat with your documents:** secure RAG over internal files, wikis and email
+- **GDPR & EU AI Act friendly:** no data sent to third-party AI providers
 - Ideal for **legal, healthcare, finance, manufacturing** and other data-sensitive teams
 
 ## ⚙️ GPU & cloud infrastructure
